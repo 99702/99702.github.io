@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#FAF8F4"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#B8510D"/>
+  <text x="80" y="200" font-family="Georgia, serif" font-size="72" font-weight="bold" fill="#1A1A1A">Rajan Paudel</text>
+  <text x="80" y="260" font-family="Georgia, serif" font-size="36" fill="#1A1A1A">パウデル ラジャン</text>
+  <text x="80" y="340" font-family="Arial, sans-serif" font-size="28" fill="#6B6B6B">Java Full-Stack Software Engineer</text>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="24" fill="#B8510D">Osaka, Japan · 大阪</text>
+  <text x="80" y="460" font-family="monospace" font-size="18" fill="#6B6B6B">Java · Spring Boot · Angular · AWS · Microservices</text>
+  <text x="80" y="495" font-family="monospace" font-size="18" fill="#6B6B6B">Docker · Kubernetes · MySQL · Redis · React</text>
+  <text x="80" y="560" font-family="Arial, sans-serif" font-size="20" fill="#6B6B6B">99702.github.io</text>
+  <rect x="0" y="624" width="1200" height="6" fill="#1A1A1A"/>
+</svg>
