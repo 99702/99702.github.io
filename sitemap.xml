@@ -71,4 +71,22 @@
             <video:thumbnail_loc>https://99702.github.io/og-image.png</video:thumbnail_loc>
         </video:video>
     </url>
+    <url>
+        <loc>https://99702.github.io/#intro-en</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://99702.github.io/#intro-jp</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://99702.github.io/feed.xml</loc>
+        <lastmod>2026-03-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
 </urlset>

@@ -1,14 +1,18 @@
 {
     "name": "Rajan Paudel — Java Full-Stack Software Engineer",
     "short_name": "Rajan Paudel",
-    "description": "Portfolio of Rajan Paudel (パウデル ラジャン), full-stack Java software engineer based in Osaka, Japan. Spring Boot, Angular, AWS, microservices.",
+    "description": "Portfolio of Rajan Paudel (ラジャン・パウデル), full-stack Java software engineer based in Osaka, Japan. Spring Boot, Angular, AWS, microservices.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#FAF8F4",
     "theme_color": "#FAF8F4",
     "lang": "en",
     "dir": "ltr",
-    "categories": ["portfolio", "technology", "software"],
+    "categories": [
+        "portfolio",
+        "technology",
+        "software"
+    ],
     "icons": [
         {
             "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%23FAF8F4' width='100' height='100'/><text y='.9em' font-size='90' x='5'>R</text></svg>",

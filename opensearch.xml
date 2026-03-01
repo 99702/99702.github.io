@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Rajan Paudel</ShortName>
+  <Description>Search Rajan Paudel's portfolio — Java Full-Stack Software Engineer, Osaka Japan</Description>
+  <Tags>rajan paudel java developer osaka パウデル ラジャン software engineer</Tags>
+  <Contact>rajan99702@proton.me</Contact>
+  <Url type="text/html" template="https://99702.github.io/?q={searchTerms}"/>
+  <Image width="16" height="16" type="image/x-icon">data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>R</text></svg></Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Language>en</Language>
+  <Language>ja</Language>
+</OpenSearchDescription>

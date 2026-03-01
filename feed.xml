@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rajan Paudel — Software Engineer</title>
+  <subtitle>Portfolio of Rajan Paudel (パウデル ラジャン), experienced Java full-stack software engineer based in Osaka, Japan.</subtitle>
+  <link href="https://99702.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://99702.github.io/feed.xml" rel="self" type="application/atom+xml"/>
+  <id>https://99702.github.io/</id>
+  <updated>2026-02-28T00:00:00+09:00</updated>
+  <author>
+    <name>Rajan Paudel</name>
+    <email>rajan99702@proton.me</email>
+    <uri>https://99702.github.io/</uri>
+  </author>
+  <category term="Java Developer"/>
+  <category term="Software Engineer"/>
+  <category term="Spring Boot"/>
+  <category term="Osaka"/>
+  <icon>https://99702.github.io/og-image.png</icon>
+  <logo>https://99702.github.io/og-image.png</logo>
+  <rights>Copyright Rajan Paudel</rights>
+  <entry>
+    <title>Rajan Paudel — Java Full-Stack Software Engineer Portfolio</title>
+    <link href="https://99702.github.io/" rel="alternate" type="text/html"/>
+    <id>https://99702.github.io/#portfolio</id>
+    <updated>2026-02-28T00:00:00+09:00</updated>
+    <summary>Experienced full-stack Java software engineer based in Osaka, Japan. Building fintech payment systems, microservices, and enterprise applications with Java, Spring Boot, Angular, and AWS. GitHub: github.com/99702</summary>
+    <content type="html">&lt;p&gt;Rajan Paudel (パウデル ラジャン) is an experienced Java full-stack software engineer based in Osaka, Japan. Specializing in fintech payment systems, microservices architecture, and AWS cloud infrastructure.&lt;/p&gt;&lt;p&gt;Skills: Java, Spring Boot, Spring Cloud, Angular, TypeScript, AWS, Docker, Kubernetes, MySQL, PostgreSQL, Oracle, MongoDB, Redis.&lt;/p&gt;&lt;p&gt;GitHub: &lt;a href="https://github.com/99702"&gt;github.com/99702&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>Rajan Paudel</name>
+    </author>
+    <category term="Portfolio"/>
+    <category term="Java"/>
+    <category term="Spring Boot"/>
+  </entry>
+  <entry>
+    <title>System Engineer at Kanezen Co Ltd — Osaka, Japan</title>
+    <link href="https://99702.github.io/#experience" rel="alternate" type="text/html"/>
+    <id>https://99702.github.io/#kanezen-role</id>
+    <updated>2025-04-01T00:00:00+09:00</updated>
+    <summary>Building Kanezen's internal business system. Angular frontend, Spring Boot backend, MySQL on RDS, deployed to AWS ECS and Amplify with CI/CD through GitHub Actions.</summary>
+    <author>
+      <name>Rajan Paudel</name>
+    </author>
+    <category term="System Engineer"/>
+    <category term="Osaka"/>
+  </entry>
+  <entry>
+    <title>Java Developer at Nepal Clearing House Limited</title>
+    <link href="https://99702.github.io/#experience" rel="alternate" type="text/html"/>
+    <id>https://99702.github.io/#nchl-role</id>
+    <updated>2024-01-01T00:00:00+05:45</updated>
+    <summary>Multi-tenant banking platform, NPCI integration for India-Nepal cross-border payments, notification system with ActiveMQ, Spring Batch for high-volume transaction processing.</summary>
+    <author>
+      <name>Rajan Paudel</name>
+    </author>
+    <category term="Java Developer"/>
+    <category term="Fintech"/>
+  </entry>
+  <entry>
+    <title>Software Engineer at Fonepay — Nepal's Largest Payment Network</title>
+    <link href="https://99702.github.io/#experience" rel="alternate" type="text/html"/>
+    <id>https://99702.github.io/#fonepay-role</id>
+    <updated>2022-07-01T00:00:00+05:45</updated>
+    <summary>Built microservices with Spring Boot and Spring Cloud for Nepal's largest digital payment network. JWT security, Redis real-time data, Docker/KubeSphere deployment.</summary>
+    <author>
+      <name>Rajan Paudel</name>
+    </author>
+    <category term="Software Engineer"/>
+    <category term="Payments"/>
+  </entry>
+</feed>

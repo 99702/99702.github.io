@@ -47,4 +47,19 @@ Allow: /
 User-agent: archive.org_bot
 Allow: /
 
+User-agent: Naverbot
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
 Host: https://99702.github.io
