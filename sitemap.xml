@@ -3,88 +3,88 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
-        <loc>https://99702.github.io/</loc>
+        <loc>https://rajanpaudel.dev/</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://99702.github.io/"/>
-        <xhtml:link rel="alternate" hreflang="ja" href="https://99702.github.io/#jp-about"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://99702.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://rajanpaudel.dev/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://rajanpaudel.dev/#jp-about"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://rajanpaudel.dev/"/>
     </url>
     <url>
-        <loc>https://99702.github.io/#experience</loc>
+        <loc>https://rajanpaudel.dev/#experience</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#projects</loc>
+        <loc>https://rajanpaudel.dev/#projects</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#skills</loc>
+        <loc>https://rajanpaudel.dev/#skills</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#jp-about</loc>
+        <loc>https://rajanpaudel.dev/#jp-about</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.9</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#education</loc>
+        <loc>https://rajanpaudel.dev/#education</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#contact</loc>
+        <loc>https://rajanpaudel.dev/#contact</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#en-intro</loc>
+        <loc>https://rajanpaudel.dev/#en-intro</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
         <video:video>
-            <video:content_loc>https://99702.github.io/en_video_intro.mp4</video:content_loc>
+            <video:content_loc>https://rajanpaudel.dev/en_video_intro.mp4</video:content_loc>
             <video:title>Rajan Paudel — Self Introduction (English)</video:title>
             <video:description>English language self-introduction by Rajan Paudel, full-stack Java software engineer based in Osaka, Japan.</video:description>
-            <video:thumbnail_loc>https://99702.github.io/og-image.png</video:thumbnail_loc>
+            <video:thumbnail_loc>https://rajanpaudel.dev/og-image.png</video:thumbnail_loc>
         </video:video>
     </url>
     <url>
-        <loc>https://99702.github.io/#jp-intro</loc>
+        <loc>https://rajanpaudel.dev/#jp-intro</loc>
         <lastmod>2026-02-26</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
         <video:video>
-            <video:content_loc>https://99702.github.io/jp_video_intro.mp4</video:content_loc>
+            <video:content_loc>https://rajanpaudel.dev/jp_video_intro.mp4</video:content_loc>
             <video:title>パウデル ラジャン 自己紹介（日本語）— Rajan Paudel Self Introduction</video:title>
             <video:description>パウデル ラジャン（Rajan Paudel）の日本語自己紹介動画。大阪在住のJavaフルスタックエンジニア。</video:description>
-            <video:thumbnail_loc>https://99702.github.io/og-image.png</video:thumbnail_loc>
+            <video:thumbnail_loc>https://rajanpaudel.dev/og-image.png</video:thumbnail_loc>
         </video:video>
     </url>
     <url>
-        <loc>https://99702.github.io/#intro-en</loc>
+        <loc>https://rajanpaudel.dev/#intro-en</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/#intro-jp</loc>
+        <loc>https://rajanpaudel.dev/#intro-jp</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://99702.github.io/feed.xml</loc>
+        <loc>https://rajanpaudel.dev/feed.xml</loc>
         <lastmod>2026-03-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.3</priority>

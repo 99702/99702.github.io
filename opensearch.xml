@@ -4,7 +4,7 @@
   <Description>Search Rajan Paudel's portfolio — Java Full-Stack Software Engineer, Osaka Japan</Description>
   <Tags>rajan paudel java developer osaka パウデル ラジャン software engineer</Tags>
   <Contact>rajan99702@proton.me</Contact>
-  <Url type="text/html" template="https://99702.github.io/?q={searchTerms}"/>
+  <Url type="text/html" template="https://rajanpaudel.dev/?q={searchTerms}"/>
   <Image width="16" height="16" type="image/x-icon">data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>R</text></svg></Image>
   <InputEncoding>UTF-8</InputEncoding>
   <OutputEncoding>UTF-8</OutputEncoding>

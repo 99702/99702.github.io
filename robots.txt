@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://99702.github.io/sitemap.xml
+Sitemap: https://rajanpaudel.dev/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
@@ -62,4 +62,4 @@ Allow: /
 User-agent: PetalBot
 Allow: /
 
-Host: https://99702.github.io
+Host: https://rajanpaudel.dev
