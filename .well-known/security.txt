@@ -1,0 +1,4 @@
+Contact: mailto:rajan99702@proton.me
+Expires: 2126-12-31T23:59:59.000Z
+Preferred-Languages: en, ja
+Canonical: https://99702.github.io/.well-known/security.txt
